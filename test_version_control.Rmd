@@ -7,3 +7,8 @@ output: github_document
 print("test")
 ```
 
+
+```{r}
+print("test2")
+```
+
